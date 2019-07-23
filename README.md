@@ -1,1 +1,1 @@
-# javascript-takvim-uygulamas-
+# javascript-takvim-uygulaması-
